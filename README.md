@@ -74,6 +74,7 @@ One hundred twenty-one production-ready plugins that extend Claude Code with dom
 | [changelog-gen](plugins/changelog-gen/) | Generate changelogs from git history with conventional commit parsing |
 | [changelog-writer](plugins/changelog-writer/) | Detailed changelog authoring from git history and PRs |
 | [ci-debugger](plugins/ci-debugger/) | Debug CI/CD pipeline failures and fix configurations |
+| [claude-recap](https://github.com/hatawong/claude-recap) | Per-topic session memory using Shell hooks — archives each conversation topic as a separate Markdown summary. Two hooks, bash + Node.js, 100% local |
 | [code-architect](plugins/code-architect/) | Generate architecture diagrams and technical design documents |
 | [code-explainer](plugins/code-explainer/) | Explain complex code and annotate files with inline documentation |
 | [code-guardian](plugins/code-guardian/) | Automated code review, security scanning, and quality enforcement |
