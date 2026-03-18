@@ -407,6 +407,7 @@ One hundred thirty-five specialized agents organized into ten categories. Each a
 | Agent | File | Purpose |
 |-------|------|---------|
 | Research Analyst | [`research-analyst.md`](agents/research-analysis/research-analyst.md) | Technical research, evidence synthesis |
+| Observability | [`observability.json`](mcp-configs/observability.json) | Iris eval & observability for agent tracing, quality evaluation, and cost tracking |
 | Competitive Analyst | [`competitive-analyst.md`](agents/research-analysis/competitive-analyst.md) | Market positioning, feature comparison |
 | Trend Analyst | [`trend-analyst.md`](agents/research-analysis/trend-analyst.md) | Technology trend forecasting |
 | Data Researcher | [`data-researcher.md`](agents/research-analysis/data-researcher.md) | Data analysis, pattern recognition |
@@ -708,6 +709,7 @@ Eight curated Model Context Protocol server configurations.
 | Crypto / DeFi | [`crypto-defi.json`](mcp-configs/crypto-defi.json) | defi-mcp, Filesystem, Fetch, Memory |
 | DevOps | [`devops.json`](mcp-configs/devops.json) | AWS, Docker, GitHub, Terraform, Sentry |
 | Research | [`research.json`](mcp-configs/research.json) | BGPT scientific papers, Brave Search, Fetch, Memory, Filesystem |
+| Observability | [`observability.json`](mcp-configs/observability.json) | Iris eval & observability for agent tracing, quality evaluation, and cost tracking |
 
 ---
 
@@ -720,6 +722,7 @@ Five context modes that configure Claude Code's behavior for different tasks.
 | Development | [`dev.md`](contexts/dev.md) | Iterate fast, follow patterns, test alongside code |
 | Code Review | [`review.md`](contexts/review.md) | Check logic, security, edge cases |
 | Research | [`research.md`](contexts/research.md) | Evaluate tools, compare alternatives, document findings |
+| Observability | [`observability.json`](mcp-configs/observability.json) | Iris eval & observability for agent tracing, quality evaluation, and cost tracking |
 | Debug | [`debug.md`](contexts/debug.md) | Reproduce, hypothesize, fix root cause, regression test |
 | Deploy | [`deploy.md`](contexts/deploy.md) | Pre-deploy checklist, staging-first, rollback criteria |
 
