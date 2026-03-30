@@ -74,6 +74,7 @@ Over 150 production-ready plugins that extend Claude Code with domain-specific c
 | [claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) | Extracted system prompts from Claude Code -- 18 builtin tool descriptions, sub-agent prompts, utility prompts. Updated for each release. 5,900+ stars |
 | [claude-context](https://github.com/zilliztech/claude-context) | Semantic code search MCP server by Zilliz (Milvus creators). Hybrid BM25 + dense vector search. ~40% token reduction. 5,600+ stars |
 | [claude-cost-optimizer](https://github.com/Sagargupta16/claude-cost-optimizer) | Save 30-60% on Claude Code costs -- 6 deep-dive guides, 15 ranked strategies, 12 CLAUDE.md templates, token estimator, usage analyzer, and copy-paste configs |
+| [fractal](https://github.com/rmolines/fractal) | Recursive project management for Claude Code. Decomposes goals into predicates, works the riskiest piece first, and re-evaluates as it learns |
 | [a11y-audit](plugins/a11y-audit/) | Full accessibility audit with WCAG compliance checking |
 | [accessibility-checker](plugins/accessibility-checker/) | Scan for accessibility issues and fix ARIA attributes in web applications |
 | [adr-writer](plugins/adr-writer/) | Architecture Decision Records authoring and management |
