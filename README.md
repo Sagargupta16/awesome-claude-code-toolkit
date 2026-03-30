@@ -517,6 +517,7 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 | [SkillNav](https://github.com/skillnav-dev/skillnav-skill) | `clawhub install HuiW86/skillnav` | Search 3,900+ MCP servers with install commands, get daily AI brief, query arXiv papers, and discover trending tools -- all in Chinese. Curated by skillnav.dev editorial team |
 
 | [Cost Optimizer](https://github.com/fullstackcrew-alpha/skill-cost-optimizer) | `git clone https://github.com/fullstackcrew-alpha/skill-cost-optimizer` | Save 60-80% on AI token costs with smart model routing, context compression, heartbeat tuning, usage reports, and config generation |
+| [Overnight Worker](https://github.com/fullstackcrew-alpha/skill-overnight-worker) | `git clone https://github.com/fullstackcrew-alpha/skill-overnight-worker` | Autonomous overnight work agent — assign tasks before sleep, get structured results by morning with smart task decomposition, web research, and push notifications |
 ### Installing Skills
 
 **Browse and install via SkillKit** (recommended):
