@@ -548,6 +548,15 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 | [Smart PR Review](https://github.com/fullstackcrew-alpha/skill-smart-pr-review) | `git clone https://github.com/fullstackcrew-alpha/skill-smart-pr-review` | Opinionated AI code reviewer with 6-layer deep review, Devil's Advocate mode, and standardized MUST FIX / SHOULD FIX / SUGGESTION output for TS/JS, Python, Go, Rust |
 | [DevOps Agent](https://github.com/fullstackcrew-alpha/skill-devops-agent) | `git clone https://github.com/fullstackcrew-alpha/skill-devops-agent` | One-click deploy, monitoring setup (Prometheus+Grafana), scheduled backups, and fault diagnosis with safety-first design including confirmation prompts, dry-run, and snapshot rollback |
 | [CN Content Matrix](https://github.com/fullstackcrew-alpha/skill-cn-content-matrix) | `git clone https://github.com/fullstackcrew-alpha/skill-cn-content-matrix` | Chinese multi-platform content generator for Xiaohongshu, WeChat, Douyin, and Bilibili with true style transfer, compliance review, and sensitive word detection |
+| [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | `git clone` | Generate interactive D3.js data visualizations from Claude Code |
+| [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | `git clone` | Interact with iOS Simulator for mobile testing and screenshot capture |
+| [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | `git clone` | Browser automation skill for end-to-end testing and web interaction |
+| [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | `git clone` | Sigma-rule-based threat detection and security log analysis |
+| [FFUF Web Fuzzing](https://github.com/jthack/ffuf_claude_skill) | `git clone` | Web vulnerability fuzzing and security testing via FFUF |
+| [Markdown to EPUB](https://github.com/smerchek/claude-epub-skill) | `git clone` | Convert markdown files into EPUB ebooks |
+| [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | `git clone` | Generate insights and summaries from CSV data files |
+| [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code) | `git clone` | Knowledge networks, iterative learning, article extraction, and YouTube transcript processing |
+
 ### Installing Skills
 
 **Browse and install via SkillKit** (recommended):
@@ -993,6 +1002,7 @@ Tutorials, guides, and deep-dives on Claude Code.
 | [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 28,700+ | 1,326+ installable agentic skills with CLI |
 | [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | 15,600+ | 100+ specialized Claude Code subagents |
 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 25,000+ | Comprehensive reference implementation for Claude Code config |
+| [awesome-claude-skills (Composio)](https://github.com/ComposioHQ/awesome-claude-skills) | 49,300+ | 30 curated skills + 832 SaaS automation templates via Composio. Strong on document processing, creative, and business skills |
 
 ## Contributing
 
